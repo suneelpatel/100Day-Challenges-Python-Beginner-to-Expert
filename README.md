@@ -17,7 +17,7 @@ This repository follows a progressive learning path, where the complexity of tas
 By the end of the 100 days, you will not only be comfortable writing Python code but also understand how to apply it in various fields, from general programming to data science and machine learning.
 
 
-- Days 1-10: Python Fundamentals
+- **Days 1-10:** Python Fundamentals
    
     Day 1: Variables and Data Types Practice
 
