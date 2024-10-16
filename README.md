@@ -18,9 +18,12 @@ By the end of the 100 days, you will not only be comfortable writing Python code
 
 
 - Days 1-10: Python Fundamentals
-    -- Day 1: Variables and Data Types Practice
-    Day 2: Basic Input/Output
-    Day 3: Arithmetic and Logical Operations
+   
+    Day 1: Variables and Data Types Practice
+
+  Day 2: Basic Input/Output
+
+  Day 3: Arithmetic and Logical Operations
     Day 4: If-Else Practice Problems
     Day 5: For and While Loops
     Day 6: Functions and Parameters
