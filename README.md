@@ -17,27 +17,27 @@ This repository follows a progressive learning path, where the complexity of tas
 By the end of the 100 days, you will not only be comfortable writing Python code but also understand how to apply it in various fields, from general programming to data science and machine learning.
 
 
-- **Days 1-10:** Python Fundamentals
+- **Days 1-10: Python Fundamentals**
    
-    Day 1: Variables and Data Types Practice
+    **Day 1:** Variables and Data Types Practice
 
-  Day 2: Basic Input/Output
+  **Day 2:** Basic Input/Output
 
-  Day 3: Arithmetic and Logical Operations
+  **Day 3:** Arithmetic and Logical Operations
 
-   Day 4: If-Else Practice Problems
+   **Day 4:** If-Else Practice Problems
 
-   Day 5: For and While Loops
+   **Day 5:** For and While Loops
 
-   Day 6: Functions and Parameters
+   **Day 6:** Functions and Parameters
 
-   Day 7: List Manipulation
+   **Day 7:** List Manipulation
 
-  Day 8: Tuple and Set Operations
+  **Day 8:** Tuple and Set Operations
 
-  Day 9: Dictionary Challenges
+  **Day 9:** Dictionary Challenges
 
-   Day 10: String Manipulation
+   D**ay 10:** String Manipulation
 
 - Days 11-20: Intermediate Python
 
